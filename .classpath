@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="secao08"/>
+	<classpathentry kind="src" path="secao09"/>
+	<classpathentry kind="src" path="secao10"/>
+	<classpathentry kind="src" path="secao13"/>
+	<classpathentry kind="src" path="secao14"/>
+	<classpathentry kind="src" path="secao14_156"/>
+	<classpathentry kind="src" path="secao15"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
