@@ -15,5 +15,6 @@
 	<classpathentry kind="src" path="secao15"/>
 	<classpathentry kind="src" path="secao17"/>
 	<classpathentry kind="src" path="secao19"/>
+	<classpathentry kind="src" path="secao20"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
